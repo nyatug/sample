@@ -33,10 +33,10 @@
                                                                             
 ---------------------------------------------------------------------------------------
 
-Congratulations! You've successfully cloned our sample repository (repo for short) you computer 
-genius, you! Git is a very powerful and popular tool and way for everyone involved to keep in touch 
-and follow what we're discussing and working on. If you'd like to learn more here are some resources
- for you that I recommend and have personally used:
+Congratulations! You've successfully cloned our sample repository (repo for short) 
+you computer genius, you! Git is a very powerful and popular tool and a way for 
+everyone involved to follow what we're discussing or working on. If you'd like to learn
+more here are some resources for you that I recommend and have personally used:
 
 1.) https://www.codeschool.com/courses/try-git : Fun interactive course that walks you through the 
 		basics. It's free! ...but you have to sign up.
