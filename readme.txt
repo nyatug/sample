@@ -38,6 +38,6 @@ you computer genius, you! Git is a very powerful and popular tool and a way for
 everyone involved to follow what we're discussing or working on. If you'd like to learn
 more here are some resources for you that I recommend and have personally used:
 
-1.) https://www.codeschool.com/courses/try-git : Fun interactive course that walks you through the 
-		basics. It's free! ...but you have to sign up.
+1.) https://www.codeschool.com/courses/try-git : Fun interactive course that walks you 
+		through the basics. It's free! ...but you have to sign up.
 2.) http://git-scm.com/doc : Straight from the source. The ins-and-outs of Git.
